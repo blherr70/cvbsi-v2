@@ -1,0 +1,16 @@
+// Run this command: 
+// 'sass --style=compressed --watch C:\Users\bryan\Documents\Websites\TEMPLATE\src\main.scss C:\Users\bryan\Documents\Websites\TEMPLATE\css\main.css'
+// to auto complile SASS file from scss to css.
+// Replace TEMPLATE with project folder name. 
+
+@charset "utf-8";
+
+// Global Partials
+@import "partials/variables";
+
+// Page 1
+@import "pages/pages";
+
+// Page 2
+
+// Page 3
