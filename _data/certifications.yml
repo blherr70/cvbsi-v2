@@ -1,0 +1,91 @@
+# FORMATTING
+#  -
+#  title: "Certificate Title"
+#  icon: "Bootstrap Icon name without the bi bi-"
+#  name: "Certificate Issuer"
+#  url: "Issuer URL"
+#  startdate: Month YYYY
+#  enddate: Month YYYY or Present
+#  hours: #.# in Hours
+#  description: "Certicate Description"
+#  validation: "Certificate Validation Information"
+-
+ title: "CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass)"
+ icon: "award-fill"
+ name: "Udemy"
+ url: "https://business.udemy.com"
+ startdate: July 2023
+ enddate: Present
+ hours: 23
+ description: "Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS."
+ validation: "This certificate above verifies that Bryan Herr successfully completed the course CSS - The Complete Guide 2023 (incl. Flexbox, Grid & Sass) on 07/30/2023 as taught by Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller, Manuel Lorenz on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."
+-
+  title: "Jekyll: make fast, secure static sites and blogs with Jekyll"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: July 2023
+  enddate: Present
+  hours: 6
+  description: "Jekyll: static website or a blog with most popular static website generator Jekyll. Do you want to learn to build sites and blogs with Jekyll? And have a simple solution without the overhead complexity? Site that is ultra fast and is immune to most common attacks?  You've come to the right place."
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course Jekyll: make fast, secure static sites and blogs with Jekyll on 07/06/2023 as taught by Jana Bergant on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."
+-
+  title: "The Complete WordPress Website Business Course 2.0"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: February 2023
+  enddate: Present
+  hours: 18.5
+  description: "Master WordPress with this fully updated Complete Course, with design, hosting, management, and business topics included"
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course The Complete WordPress Website Business Course 2.0 on 02/09/2023 as taught by Gregg Davis, Rob Percival, Codestars • over 2 million students worldwide! on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."
+-
+  title: "Learn Elementor - WordPress Front-End Development Course"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: January 2023
+  enddate: Present
+  hours: 6.5
+  description: "Elementor page builder gives you total control to design and create the site you've always wanted, without restrictions."
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course Learn Elementor - WordPress Front-End Development Course on 01/31/2023 as taught by Andrew Williams on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion"
+-
+  title: "Wordpress for Beginners - Master Wordpress Quickly"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: January 2023
+  enddate: Present
+  hours: 9.5
+  description: "In 2023, build a beautiful responsive Wordpress site that looks great on all devices. No experience required."
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course Wordpress for Beginners - Master Wordpress Quickly on 01/19/2023 as taught by Andrew Williams on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."
+-
+  title: "Git and GitHub for Writers"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: January 2023
+  enddate: Present
+  hours: 2.5
+  description: "Not a software developer? Learn how to use Git and GitHub version control in a course specifically designed for writers."
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course Git and GitHub for Writers on 01/16/2023 as taught by Peter Gruenbaum on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."
+-
+  title: "Figma Design Course 2023. Your Website from Start to Finish"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: January 2023
+  enddate: Present
+  hours: 6
+  description: "Step-by-step guide for beginners on how to go through the process of creating your project on Figma from start to finish"
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course Figma Design Course 2023. Your Website from Start to Finish on 01/13/2023 as taught by Anton Voroniuk, Željko Milivojević on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."
+-
+  title: "The Complete jQuery Course: From Beginner To Advanced!"
+  icon: award-fill
+  name: Udemy
+  url: https://business.udemy.com
+  startdate: January 2023
+  enddate: Present
+  hours: 6
+  description: "Use jQuery to create stunning animations, provide fast feedback forms, handle all user events and perform Ajax calls."
+  validation: "This certificate above verifies that Bryan Herr successfully completed the course The Complete jQuery Course: From Beginner To Advanced! on 01/06/2023 as taught by Joe Parys, Peter Sommerhoff, Joe Parys Support on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion."

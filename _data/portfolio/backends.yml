@@ -1,0 +1,12 @@
+- 
+  name: GitHub
+  icon: fa-github
+  url: https://github.com/
+- 
+  name: CodePen
+  icon: fa-codepen
+  url: https://codepen.io/
+- 
+  name: "Stack Overflow"
+  icon: fa-stack-overflow
+  url: https://stackoverflow.com/

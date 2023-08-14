@@ -1,0 +1,48 @@
+body {
+    font-family: Calibri, sans-serif;
+    padding-top: $sectionTopPadding;
+}
+
+body a {
+  text-decoration: none;
+  color: $darkColor;
+  border-right: 2px solid $darkColor;
+  padding-right: 5px;
+
+  &:hover,
+  &:after {
+      border-left: 2px solid $accentColor;
+
+  }
+}
+
+.icon--container {
+  position: relative;
+}
+
+.bg--circle {
+  color: $primaryColor;
+  height: 30px;
+  width: 30px;
+}
+
+.main--icon {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  color: white;
+}
+
+.secondary--icon {
+  height: 20px;
+  width: 20px;
+}
+
+.secondary--icon-color {
+  color: $secondaryColor;
+}
+
+.big--icons {
+  color: $primaryColor;
+  size: 50px;
+}

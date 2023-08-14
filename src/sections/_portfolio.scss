@@ -1,0 +1,9 @@
+#portfolio a {
+    text-decoration: none;
+    color: $darkColor;
+
+    &:hover,
+    &:after {
+        border-bottom: 1px solid $darkColor;
+    }
+}

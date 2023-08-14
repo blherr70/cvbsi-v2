@@ -2,16 +2,19 @@
 
 // GLOBALS
 @import "globals/variables";
-@import "globals/main";
+@import "globals/default";
 
 // COMMONS
 @import "commons/header";
+@import "commons/navbar";
+@import "commons/back-to-top";
 @import "commons/footer";
 @import "commons/social-icons";
 
 // SECTIONS
-@import "sections/about";
-@import "sections/contact";
+@import "sections/portfolio";
+@import "sections/contact-info";
+@import "sections/certifications";
 
 
 // PAGE 1
@@ -20,3 +23,4 @@
 // PAGE 2
 
 // PAGE 3
+

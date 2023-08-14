@@ -1,0 +1,83 @@
+# FORMATTING
+# -
+#  title: "Job Title"
+#  icon: "fas fa-fontawesomename"
+#  name: "Company Name"
+#  url: "Company URL"
+#  location: City, ST
+#  startdate: Month YYYY
+#  enddate: Month YYYY or Present
+#  description: "Details of what work was done."
+-
+  title: Computer Operator
+  icon: laptop
+  name: Pomeroy IT
+  url: https://www.pomeroy.com/
+  location: Boulder, CO
+  startdate: December 2022
+  enddate: Present
+  description: Computer Operations on Mainframe and Distributive platforms.
+-
+  title: Front End Loader Operator
+  icon: truck-front-fill
+  name: Ohio Mulch Supply, Inc
+  url: https://www.ohiomulch.com/
+  location: Homerville, GA
+  startdate: January 2022
+  enddate:  May 2023
+  description: "Assist team by filling the hoppers with material to keep the mulch production lines running. Perform daily
+maintenance on the Front End Loader to ensure peak performance."
+-
+  title: UPS Driver Helper (Seasonal)
+  icon: truck-front-fill
+  name: UPS
+  url: https://www.ups.com
+  location: Greenville, SC
+  startdate: November 2021
+  enddate: December 2021
+  description: Assisted driver with delivering packages.
+-
+  title: Cashier/Customer Service
+  icon: person-fill
+  name: Mount Rushmore Bookstore
+  url: https://mountrushmoresociety.com/
+  location: Keystone, SD
+  startdate: May 2021
+  enddate: October 2021
+  description: Sales Associate, merchandiser and stocker.
+-
+  title: Logistics Supervisor
+  icon: wrench
+  name: Harbor Freight Tools
+  url: https://www.harborfreight.com/
+  location: Flagstaff, AZ
+  startdate: June 2018
+  enddate: March 2021
+  description: "Open/close store, Manage team responsibly, Stock shelves from unloading truck to merchandising product and performing excellent customer service."
+-
+  title: Production Support Analyst
+  icon: laptop
+  name: CDI at IBM
+  url: https://www.ibm.com/
+  location: Boulder, CO
+  startdate: May 2009
+  enddate: September 2016
+  description: Production Control (Scheduling and Product Support) on Mainframe and Distributive platforms.
+-
+  title: Computer Operator
+  icon: laptop
+  name: CDI at IBM
+  url: https://www.ibm.com/
+  location: Boulder, CO
+  startdate: August 2005
+  enddate: February 2009
+  description: Computer Operations on Mainframe, Distributive and AS400 platforms
+-
+  title: Computer Operator
+  icon: laptop
+  name: Tek Systems at IBM
+  url: https://www.ibm.com/
+  location: Boulder, CO
+  startdate: July 2004
+  enddate: August 2005
+  description: Computer Operations on Mainframe, Distributive and AS400 platforms

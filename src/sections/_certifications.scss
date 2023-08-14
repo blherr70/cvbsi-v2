@@ -1,0 +1,12 @@
+#certifications a {
+    text-decoration: none;
+    color: $darkColor;
+    border-left: 2px solid $darkColor;
+    padding-left: 1px;
+
+    &:hover,
+    &:after {
+        border-left: 2px solid $accentColor;
+
+    }
+}
