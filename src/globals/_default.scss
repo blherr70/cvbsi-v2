@@ -52,4 +52,7 @@ body a {
   background-color: $accentColor;
 }
 
-
+.card-header {
+  background-color: lighten($color: $primaryColor, $amount: 30);
+  color: white;
+}
