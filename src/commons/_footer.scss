@@ -1,0 +1,14 @@
+#footer {
+    .social {
+        a {
+            padding: 2px;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        color: $secondaryColor;
+        // border-left: 2px solid $darkColor;
+        padding-left: 10px;
+    }
+}

@@ -1,0 +1,57 @@
+# Formats
+# -
+#  name: "Subtitle Here"
+#  subtitle: yes
+# - 
+#  name: Skill Name Here
+#  icon: "fa-fontawesomename"
+#  percent: "75"  
+-
+  name: "Mainframe - Production Control"
+  subtitle: yes
+- 
+  name: TWS/OPCA
+  icon: pc-display
+  percent: 100
+-
+  name: "Mainframe - Operations"
+  subtitle: yes
+- 
+  name: TWS/OPCA
+  icon: pc-display
+  percent: 100
+- 
+  name: CA7
+  icon: pc-display
+  percent: 75
+- 
+  name: JES2
+  icon: pc-display
+  percent: 100
+- 
+  name: Omegamon
+  icon: pc-display
+  percent: 75
+-
+  name: "Windows"
+  subtitle: yes
+- 
+  name: Office
+  icon: windows
+  percent: 100
+- 
+  name: Excel
+  icon: windows
+  percent: 100
+- 
+  name: Word
+  icon: windows
+  percent: 100
+- 
+  name: PowerPoint
+  icon: windows
+  percent: 100
+- 
+  name: Database
+  icon: windows
+  percent: 100

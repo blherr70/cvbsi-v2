@@ -1,0 +1,39 @@
+.nav--title {
+    font-weight: bold;
+    color: $secondaryColor;
+    font-size: 40px;
+    border: none;
+}
+
+.title--firstname {
+    color: $secondaryColor;
+}
+
+.title--lastname {
+    color: $primaryColor;
+}
+
+.nav--title:hover {
+    border-left: 2px solid $accentColor;
+    border-bottom: none;
+    color: $secondaryColor;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: $secondaryColor;
+
+    &:hover,
+    &:after {
+        border-left: 2px solid $accentColor;
+        border-bottom: none;
+        color: $secondaryColor;   
+    }
+}
+
+#navbarNav,
+#footer {
+    a.active {
+        border-left: 2px solid $primaryColor;
+    }
+}
