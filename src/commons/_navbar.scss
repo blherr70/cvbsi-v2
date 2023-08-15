@@ -15,8 +15,8 @@
 
 .nav--title:hover {
     border-left: 2px solid $accentColor;
+    border-bottom: none;
     color: $secondaryColor;
-
 }
 
 .nav-link {
@@ -26,13 +26,13 @@
     &:hover,
     &:after {
         border-left: 2px solid $accentColor;
+        border-bottom: none;
         color: $secondaryColor;   
     }
 }
 
-#navbarNav {
-
-
+#navbarNav,
+#footer {
     a.active {
         border-left: 2px solid $primaryColor;
     }

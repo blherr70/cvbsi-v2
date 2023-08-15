@@ -15,6 +15,7 @@
    # Addresses
   # If true, shows permaddress and not temp. If false, shows temp and not perm.
   showpermaddress: no
+  privacyaddress: yes
   permaddress: 
     street: "514 Americas Way #6475"
     city: "Box Elder, SD  57719"

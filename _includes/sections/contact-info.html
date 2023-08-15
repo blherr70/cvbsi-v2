@@ -45,6 +45,7 @@
                 <li><a href="mailto:mail@domain.com">
                     {{ profile.email }}
                 </a></li>
+                
                 {% if profile.linkedin %}
                 <li><i class="bi bi-linkedin secondary--icon"></i> <a href="https://www.linkedin.com/in/{{ profile.linkedin }}/">{{ profile.linkedin }}</a></li>
                 {% endif %}
@@ -73,14 +74,18 @@
             <div class="flex-grow-1">
                 <address class="mb-0">
                     {% if profile.showpermaddress %}
+                    {% if profile.privacyaddress == no %}
                     {{ profile.permaddress.street }}
                     <br>
+                    {% endif %}
                     {{ profile.permaddress.city }}
                     <br>
                     {{ profile.permaddress.country }}
                     {% else %}
+                    {% if profile.privacyaddress == no %}
                     {{ profile.tempaddress.street }}
                     <br>
+                    {% endif %}
                     {{ profile.tempaddress.city }}
                     <br>
                     {{ profile.tempaddress.country }}

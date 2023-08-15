@@ -1,12 +1,14 @@
-// #footer a {
-//     text-decoration: none;
-//     color: $darkColor;
-//     border-left: 2px solid $darkColor;
-//     padding-left: 1px;
+#footer {
+    .social {
+        a {
+            padding: 2px;
+        }
+    }
 
-//     &:hover,
-//     &:after {
-//         border-left: 2px solid $accentColor;
-
-//     }
-// }
+    a {
+        text-decoration: none;
+        color: $secondaryColor;
+        // border-left: 2px solid $darkColor;
+        padding-left: 10px;
+    }
+}

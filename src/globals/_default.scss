@@ -6,12 +6,12 @@ body {
 body a {
   text-decoration: none;
   color: $darkColor;
-  border-right: 2px solid $darkColor;
+  // border-bottom: .5px solid $darkColor;
   padding-right: 5px;
 
   &:hover,
   &:after {
-      border-left: 2px solid $accentColor;
+      border-bottom: 1px solid $accentColor;
 
   }
 }
@@ -45,4 +45,9 @@ body a {
 .big--icons {
   color: $primaryColor;
   size: 50px;
+}
+
+.default--btn {
+  color: white;
+  background-color: $accentColor;
 }

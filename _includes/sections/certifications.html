@@ -34,8 +34,8 @@
             <hr>
             {% endfor %}
         </div>
-        {% for cert in site.data.certifications offset: 1 %}
-        <button type="button" class="btn btn-sm btn-outline-primary" data-bs-toggle="collapse" data-bs-target="#collapse-education" aria-expanded="false" aria-controls="collapse-education">Show all</button>
+        {% for cert in site.data.certifications offset: 1 %} 
+        <button type="button" class="btn btn-lg default--btn" data-bs-toggle="collapse" data-bs-target="#collapse-education" aria-expanded="false" aria-controls="collapse-education">Show all</button>
         {% break %}
         {% endfor %}
     </div>
