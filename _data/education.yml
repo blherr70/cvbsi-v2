@@ -1,0 +1,17 @@
+# FORMATTING
+# -
+#  degree: "Degree Name"
+#  icon: "fas fa-fontawesomename"
+#  name: "University Name"
+#  url: "University URL"
+#  startdate: Month YYYY or YYYY
+#  enddate: Month YYYY or YYYY
+#  description: "Any details to add."
+-
+  degree: Some College
+  icon: buildings-fill
+  name: Oakland Community College
+  url: https://www.oaklandcc.edu/
+  startdate: 1994
+  enddate: 1998
+  description: General education.

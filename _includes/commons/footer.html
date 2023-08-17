@@ -1,0 +1,42 @@
+<footer id="footer" class="py-3 pt-md-5 pb-md-2">
+    <hr>
+    <div class="container">
+        <div class="row justify-content-around">
+            <div class="col-6">
+                <h3>Pages</h3>
+                {% include commons/navbar-nav.html %}
+            </div>
+            <div class="col-6 text-end">
+                <h3>Follow Me</h3>
+                {% for profile in site.data.profile %}
+                <ul class="list-unstyled social justify-content-end" id="social-icons">
+                    {% if profile.linkedin %}
+                    <li><a href="https://www.linkedin.com/in/{{ profile.linkedin }}/"><i class="bi bi-linkedin secondary--icon secondary--icon-color"></i></a></li>
+                    {% endif %}
+                    {% if profile.twitter %}
+                    <li><a href="https://twitter.com/{{ profile.twitter }}"><i class="bi bi-twitter secondary--icon-color"></i></a></li>
+                    {% endif %}
+                    {% if profile.instagram %}
+                    <li class="mb-2"><a href="{{ profile.instagram }}"><i class="bi bi-instagramsecondary--icon-color"></i></a></li>
+                    {% endif %}
+                    {% if profile.youtube %}
+                    <li class="mb-2"><a href="https://www.youtube.com/@{{ profile.youtube }}"><i class="bi bi-youtube secondary--icon-color"></i></a></li>
+                    {% endif %}
+                    {% if profile.pinterest %}
+                    <li class="mb-2"><a href="https://www.pinterest.com/{{ profile.pinterest }}/"><i class="bi bi-pinterest secondary--icon-color"></i></a></li>
+                    {% endif %}
+                
+                </ul>
+                
+                {% endfor %}                
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <hr>
+            <div class="col-md-12 text-center">
+                <p>All rights reserved @ BryanScott.ink by © Bryan Scott Herr</p>
+            </div>
+        </div>
+    </div>
+</footer>

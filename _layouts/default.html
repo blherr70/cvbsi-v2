@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-    {% include partials/head.html %}
+    {% include commons/head.html %}
     <body>
-        {{ content }}
+
+    {% include commons/header.html %}
+    {% include commons/section-title.html %}
+
+    {{ content }}
+
+    {% include commons/back-to-top.html %}
+
+    {% include commons/footer.html %}
+
+    {% include js/js.html %}
     </body>
 </html>
