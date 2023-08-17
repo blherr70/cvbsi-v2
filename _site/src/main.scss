@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+// GLOBALS
+@import "globals/variables";
+@import "globals/default";
+
+// COMMONS
+@import "commons/header";
+@import "commons/navbar";
+@import "commons/back-to-top";
+@import "commons/footer";
+@import "commons/social-icons";
+@import "commons/section-title";
+
+// SECTIONS
+@import "sections/portfolio";
+@import "sections/contact-info";
+@import "sections/certifications";
+@import "sections/hero";
+
+// PAGE 1
+@import "pages/pages";
+
+// PAGE 2
+
+// PAGE 3
+
